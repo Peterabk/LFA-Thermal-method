@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">bro</string>
+    <string name="welcome">Welcome!</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="login_btn">Login</string>
+    <string name="new_user">new user?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="comfirm_password">comfirm password</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="health_worker">Health Worker</string>
+    <string name="lab_technician">Lab Technician</string>
+</resources>
