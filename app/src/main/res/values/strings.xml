@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">bro</string>
+    <string name="welcome">Welcome!</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="login_btn">Login</string>
+    <string name="new_user">new user?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="comfirm_password">comfirm password</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="health_worker">Health Worker</string>
+    <string name="lab_technician">Lab Technician</string>
+
+    <!--RESEARCH RESULTS PAGE NOT CONNECTED TO FIREBASE-->
+    <string name="research_results_tableHeading_assNum">Assurance Number</string>
+    <string name="research_results_tableHeading_Fname">First name</string>
+    <string name="research_results_tableHeading_Lname">Last name</string>
+    <string name="research_results_tableHeading_birth">Date of birth</string>
+    <string name="research_results_tableHeading_fileNum">File Number</string>
+
+    <string name="row1assNum">CHAC 1111 1111</string>
+    <string name="row1Fname">Isabelle</string>
+    <string name="row1Lname">Charles</string>
+    <string name="row1birth">2002-02-03</string>
+    <string name="row1FileNum">000212212</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

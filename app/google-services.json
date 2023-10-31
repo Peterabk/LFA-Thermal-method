@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "517018786284",
+    "firebase_url": "https://users-3aaf2-default-rtdb.firebaseio.com",
+    "project_id": "users-3aaf2",
+    "storage_bucket": "users-3aaf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517018786284:android:4a023b792c772cabd488c9",
+        "android_client_info": {
+          "package_name": "com.example.bro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMUXNVHueA0ceJspQF5jMqxbY223NNp2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
